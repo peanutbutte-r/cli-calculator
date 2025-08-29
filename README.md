@@ -5,12 +5,12 @@ A Simple calculator that works directly into your terminal made in C++
 ---
 
 ## Content
--[Requirements](#requirements)
--[How to run](#how-to-run)
--[Features](#features)
--[Contributing](#contributing)
--[Issues](#issues)
--[License](#license)
+- [Requirements](#requirements)
+- [How to run](#how-to-run)
+- [Features](#features)
+- [Contributing](#contributing)
+- [Issues](#issues)
+- [License](#license)
 
 ---
 
