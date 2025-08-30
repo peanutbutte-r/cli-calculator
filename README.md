@@ -23,23 +23,23 @@ A Simple calculator that works directly into your terminal made in C++
 
 ## How to run
 - if running the file normally
-  ```bash
-  ./main
-  ```
+```bash
+./main
+```
 
 - if editing and compiling
-  ```bash
-  # Compile with GCC/G++
-  g++ -Wall -O2 -std=c++17 main.cpp -o main
-  # Run the file
-  ./main
+```bash
+# Compile with GCC/G++
+g++ -Wall -O2 -std=c++17 main.cpp -o main
+# Run the file
+./main
 
-  # Compile with Clang
-  clang++ -Wall -O2 main.cpp -o main
+# Compile with Clang
+clang++ -Wall -O2 main.cpp -o main
 
-  # Run the file
-  ./main
-  ```
+# Run the file
+./main
+```
 
 ## Features 
 This Calculator supports many of many operations:
@@ -99,23 +99,23 @@ This Project is licensed under the [MIT Licnese](LICENSE)
 
 ## كيفية التشغيل
 - عند تشغيله بشكل عادي
-  ```bash
-  ./main
-  ```
+```bash
+./main
+```
 
 - عند تعديله وبناءه
-  ```bash
-  # بناء ب GCC/G++
-  g++ -Wall -O2 -std=c++17 main.cpp -o main
-  # تشغيل الملف
-  ./main
+```bash
+# بناء ب GCC/G++
+g++ -Wall -O2 -std=c++17 main.cpp -o main
+# تشغيل الملف
+./main
 
-  # بناء ب Clang
-  clang++ -Wall -O2 main.cpp -o main
+# بناء ب Clang
+clang++ -Wall -O2 main.cpp -o main
 
-  # تشغيل الملف
-  ./main
-  ```
+# تشغيل الملف
+./main
+```
 
 ## المميزات 
 الالة حاسبة تدعم العديد من العمليات:
